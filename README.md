@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/UrAriane" target="blank"><img src="https://img.shields.io/twitter/follow/UrAriane?logo=twitter&style=for-the-badge" alt="UrAriane" /></a> </p>
 
-- 🔭 I’m currently a graduate student at Carnegie Mellon University
+- 🔭 I hold a masters degree from Carnegie Mellon University
 - 📘 Field of study: Data Science, Applied Machine Learning
 - 💬 Ask me about everything
 - 📫 How to reach me: **<shimariane125@gmail.com>**
